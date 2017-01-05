@@ -4,7 +4,7 @@ title:      "Man must explore, and this is exploration at its greatest"
 subtitle:   
 date:       2014-09-24 12:00:00
 author:     
-header-img: "img/post-bg-06.jpg"
+header-img: 
 ---
 [![ImageLink](https://img.youtube.com/vi/IPKAwJKGSDc/0.jpg)](https://www.youtube.com/watch?v=IPKAwJKGSDc)
 
