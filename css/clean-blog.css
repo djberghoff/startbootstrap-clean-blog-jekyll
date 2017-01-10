@@ -144,6 +144,10 @@ hr.small {
   margin-bottom: 10px;
 }
 .intro-header .site-heading,
+{
+  padding: 100px 0 50px;
+  color: white;
+}
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 10px 0 5px;
@@ -153,7 +157,7 @@ hr.small {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 15px 0;
+    padding: 150px 0;
   }
 }
 .intro-header .site-heading,
