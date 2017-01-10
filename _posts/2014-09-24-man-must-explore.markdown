@@ -8,7 +8,7 @@ header-img:
 ---
 [![ImageLink](https://img.youtube.com/vi/IPKAwJKGSDc/0.jpg)](https://www.youtube.com/watch?v=IPKAwJKGSDc)
 
-{% highlight python %}
+```python
 def x(State):
     t = ""
     y = State.strip().split(',')
@@ -18,7 +18,7 @@ def x(State):
     return state_List
 
 print x("ks,oh,pa,ok")
-{% endhighlight %}
+```
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
