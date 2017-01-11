@@ -1,10 +1,10 @@
 # Site settings
-title: Danny Berghoff
+title: Danny Berghoff T
 header-img: 
 email: dberghoff2@gmail.com
 copyright_name: Danny Berghoff
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: ""
 url: "http://yourdomain.com"
 #twitter_username: SBootstrap
 #github_username:  djberghoff
