@@ -19,7 +19,28 @@ def x(State):
 
 print x("ks,oh,pa,ok")
 
-test = []
+import matplotlib.pyplot as pl
+import numpy as np
+from random import randint
+
+n = 300 #number of sample data
+x,y = np.random.rand(2,n) #generate random sample locations
+
+pl.subplot(121) #sub-plot area 1 out of 2
+pl.scatter(x,y,lw=0,c='k') #darw sample points
+pl.axis('image') #necessary for correct aspect ratio
+
+pl.subplot(122) #sub-plot area 2 out of 2
+
+
+hex = pl.hexbin(x,y,C=None,gridsize=20,bins=None,mincnt=1,cmap=pl.get_cmap('bwr')) #hexbinning
+shootingpct = hex.get_array()
+print shootingpct
+
+pl.scatter(x,y,lw=0.5,c='k',edgecolor='w') #overlaying the sample points
+pl.axis('image') #necessary for correct aspect ratio
+
+pl.show() #to show the plot
 ```
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
