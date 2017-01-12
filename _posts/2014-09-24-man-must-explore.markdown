@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest TEST"
+title:      "Man must explore, and this is exploration at its greatest"
 subtitle:   
 date:       2014-09-24 12:00:00
 author:     
 header-img: 
 ---
-[![ImageLink](https://img.youtube.com/vi/IPKAwJKGSDc/0.jpg =250x250)](https://www.youtube.com/watch?v=IPKAwJKGSDc)
+[![ImageLink](https://img.youtube.com/vi/IPKAwJKGSDc/0.jpg =1000X1000)](https://www.youtube.com/watch?v=IPKAwJKGSDc)
 
 ```python
 def x(State):
