@@ -6,7 +6,7 @@ date:       2014-09-24 12:00:00
 author:     
 header-img: 
 ---
-[![ImageLink](https://img.youtube.com/vi/IPKAwJKGSDc/0.jpg)](https://www.youtube.com/watch?v=IPKAwJKGSDc =5000X5000)
+[![ImageLink](https://img.youtube.com/vi/IPKAwJKGSDc/0.jpg)](https://www.youtube.com/watch?v=IPKAwJKGSDc)
 
 ```python
 def x(State):
