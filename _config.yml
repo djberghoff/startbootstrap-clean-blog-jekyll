@@ -1,6 +1,6 @@
 # Site settings
 title: Danny Berghoff
-header-img: home-bg.jpg
+header-img: "img/home-bg.jpg"
 email: dberghoff2@gmail.com
 copyright_name: Danny Berghoff
 description: "Write your site description here. It will be used as your sites meta description as well!"
