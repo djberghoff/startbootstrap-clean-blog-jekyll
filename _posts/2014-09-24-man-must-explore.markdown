@@ -44,6 +44,7 @@ pl.show() #to show the plot
 ```
 Test embed youtube
 {% include youtube.html id="g9GQJgbGZJU" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
 
 
 This is a test link <a href="https://djberghoff.github.io/purple/">HERE</a>
