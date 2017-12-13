@@ -42,9 +42,9 @@ pl.axis('image') #necessary for correct aspect ratio
 
 pl.show() #to show the plot
 ```
-Test embed Youtube
+Test embed Youtube!!!
 
-
+{ % include youtubePlayer.html id="IvUU8joBb1Q" %}
 
 This is a test link <a href="https://djberghoff.github.io/purple/">HERE</a>
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
