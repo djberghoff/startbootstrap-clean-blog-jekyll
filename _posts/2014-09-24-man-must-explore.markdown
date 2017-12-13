@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
+title:      "Man must explore, and this is exploration at its greatest TEST"
 subtitle:   
 date:       2014-09-24 12:00:00
 author:     
