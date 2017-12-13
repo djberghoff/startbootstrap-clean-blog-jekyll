@@ -44,9 +44,7 @@ pl.show() #to show the plot
 ```
 Test embed Youtube
 
-<iframe width="560" height="420" src="http://www.youtube.com/embed/oHg5SJYRHA0?color=white&theme=light"></iframe>
-
-
+{% include youtubePlayer.html id=uXTFP4wcjdA %}
 
 This is a test link <a href="https://djberghoff.github.io/purple/">HERE</a>
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
