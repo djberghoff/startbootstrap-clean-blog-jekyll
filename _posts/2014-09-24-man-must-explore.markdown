@@ -42,8 +42,10 @@ pl.axis('image') #necessary for correct aspect ratio
 
 pl.show() #to show the plot
 ```
-Test embed youtube failed
-Test
+Test embed youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXTFP4wcjdA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+{% include youtube.html id="YOUTUBE ID" %}
 
 
 This is a test link <a href="https://djberghoff.github.io/purple/">HERE</a>
